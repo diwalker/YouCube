@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YouCube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1170d9339049fa394878dedea20bf854f48a46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d1d0f9d598dce14b4f19d361b0cd8d61a4527a")]
 [assembly: System.Reflection.AssemblyProductAttribute("YouCube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YouCube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
